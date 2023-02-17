@@ -1417,6 +1417,7 @@ header .mega-menu .links li i {
 .videos .right video {
   max-width: 100%;
   padding: 10px;
+  width: 100%;
 }
 .videos .right input {
   position: absolute;
