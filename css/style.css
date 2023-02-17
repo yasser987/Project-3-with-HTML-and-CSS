@@ -1412,6 +1412,9 @@ header .mega-menu .links li i {
 }
 .videos .container .right {
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 .videos .right video {
   max-width: 100%;
